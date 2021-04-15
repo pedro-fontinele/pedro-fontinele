@@ -31,5 +31,5 @@ I am passionate about technology and software development!
 
 [![Twitter Badge](https://img.shields.io/badge/-@fontinele_pedro-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fontinele_pedro)](https://twitter.com/fontinele_pedro) 
 [![Instagram Badge](https://img.shields.io/badge/-@fontinele_pedro-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fontinele_pedro/)](https://www.instagram.com/fontinele_pedro/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Fontinele-midnight-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fontinele/)](https://www.linkedin.com/in/pedro-fontinele/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Fontinele-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fontinele/)](https://www.linkedin.com/in/pedro-fontinele/) 
 [![E-mail Badge](https://img.shields.io/badge/-pedro.p.h.fontinele@icloud.com-6633cc?style=flat-square&logo=email&logoColor=white&link=mailto:pedro.p.h.fontinele@icloud.com)](mailto:pedro.p.h.fontinele@icloud.com)
