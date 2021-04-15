@@ -10,8 +10,8 @@ I am passionate about technology and software development!
 
 <div style="display: inline-block">
   <a href="https://github.com/pedro-fontinele">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedro-fontinele&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fontinele&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedro-fontinele&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fontinele&layout=compact&langs_count=8&theme=dark"/>
 <div>
 
 ### My skills and knowledge
