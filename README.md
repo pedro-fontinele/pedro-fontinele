@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey 👋
+My name is Pedro Fontinele, I’m Brazilian and I’m 20 years old, born in São Paulo.
+I’m a front-end developer in training! 🚀
+I am currently studying Software Engineering at UNIFRAN! 📚💻
 
-<!--
-**pedro-fontinele/pedro-fontinele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about technology and software development!
 
-Here are some ideas to get you started:
+My skills and knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database development and monitoring in an Oracle environment ✔
+HTML 5 ✔
+CSS 3b ✔
+And soon more skills hahaha!
+
+My social networks:
+Pedro Fontinele
