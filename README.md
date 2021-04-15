@@ -21,6 +21,9 @@ My skills and knowledge
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-PLSQL" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=148&color=000000">
  
+And soon more skills hahaha! 
+<br>
+<br>
 [![Twitter Badge](https://img.shields.io/badge/-@fontinele_pedro-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fontinele_pedro)](https://twitter.com/fontinele_pedro) 
 [![Instagram Badge](https://img.shields.io/badge/-@fontinele_pedro-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fontinele_pedro/)](https://www.instagram.com/fontinele_pedro/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Fontinele-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fontinele/)](https://www.linkedin.com/in/pedro-fontinele/) 
