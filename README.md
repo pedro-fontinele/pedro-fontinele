@@ -6,7 +6,7 @@
 I'm a front-end developer in training! 🚀 I am currently studying
 Software Engineering at UNIFRAN! 📚💻
 
-I am passionate about technolodgy and software development!
+I am passionate about technology and software development!
 
 <div style="display: inline-block">
   <a href="https://github.com/pedro-fontinele">
