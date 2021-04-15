@@ -11,7 +11,7 @@ My skills and knowledge
 
 - Database development and monitoring in an Oracle environment ✔
 - HTML 5 ✔
-- CSS 3b ✔
+- CSS 3 ✔
 
 And soon more skills hahaha!
 
