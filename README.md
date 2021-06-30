@@ -1,7 +1,7 @@
 
 # Hey 👋
 
-### My name is Pedro Fontinele, I’m Brazilian and I’m 20 years old, born in São Paulo.
+### My name is Pedro Fontinele, I’m Brazilian and I’m 21 years old, born in São Paulo.
 
 I'm a front-end developer in training! 🚀 I am currently studying
 Software Engineering at UNIFRAN! 📚💻
