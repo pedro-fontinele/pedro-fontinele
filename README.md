@@ -19,7 +19,7 @@ I am passionate about technology and software development! 📚💻🚀
   <img align="center" alt="Pedro-PLSQL" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=148&color=000000">
 </div>
 
-### And soon more skills hahaha! 
+### My social networks:
 <br>
 
 
