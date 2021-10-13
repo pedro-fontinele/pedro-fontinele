@@ -1,10 +1,9 @@
 
-# Hey 👋
+# Hello! 👋
 
-### My name is Pedro Fontinele, I’m Brazilian and I’m 21 years old, born in São Paulo.
+### My name is Pedro Fontinele, I am a full-stack PHP developer and I study Software Engineering.
 
-I'm a front-end developer in training! 🚀 I am currently studying
-Software Engineering at UNIFRAN! 📚💻
+📚💻🚀 
 
 I am passionate about technology and software development!
 
