@@ -3,9 +3,7 @@
 
 ### My name is Pedro Fontinele, I am a full-stack PHP developer and I study Software Engineering.
 
-📚💻🚀 
-
-I am passionate about technology and software development!
+I am passionate about technology and software development!📚💻🚀 
 
 <div style="display: inline-block">
   <a href="https://github.com/pedro-fontinele">
