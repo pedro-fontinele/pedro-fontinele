@@ -1,7 +1,7 @@
 
 # Hello! 👋
 
-### My name is Pedro Fontinele, I am a full-stack Pdeveloper and I study Software Engineering.
+### My name is Pedro Fontinele, I am a full-stack developer and I study Software Engineering.
 
 I am passionate about technology and software development! 📚💻🚀 
 
