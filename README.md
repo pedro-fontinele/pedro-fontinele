@@ -14,8 +14,8 @@ I am passionate about technology and software development! 📚💻🚀
 ### My skills and knowledge
 
 <div style="display: inline-block"><br>
-  <!-- <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-PLSQL" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=148&color=000000">
 </div>
 
