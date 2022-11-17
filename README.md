@@ -3,8 +3,6 @@
 
 My name is Pedro Fontinele and I'm a full stack developer, I'm currently working on creating web solutions with ASP NET Core and Angular for integration with other platforms, I have solid experience in Enterprise Resource Planning (ERP) and E-commerce flow.
 
-I invite you to know my public repository on GitHub, I'm always feeding this profile with my projects and some codes... https://github.com/pedro-fontinele
-
 Technologies I currently work on
 • Asp Net Core Web API
 • Asp Net Core (MVC, Webforms)
