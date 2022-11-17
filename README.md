@@ -1,34 +1,7 @@
 
 # Hello! 👋
 
-My name is Pedro Fontinele and I'm a full stack developer, I'm currently working on creating web solutions with ASP NET Core and Angular for integration with other platforms, I have solid experience in Enterprise Resource Planning (ERP) and E-commerce flow.
-
-Technologies I currently work on
-• Asp Net Core Web API
-• Asp Net Core (MVC, Webforms)
-• SOLID principle
-• Angular
-• Oracle PL/SQL Database
-• Microsoft SQL Server Database
-• Azure DevOps
-• API testing with PostMan
-• Angular PO-UI by TOTVS component library
-• C#
-• HTML
-• CSS
-• JavaScript
-• Typescript
-• Automated test development
-• Jira at Atlassian
-
-Other technologies I know
-• Git
-• GitHub
-• EF - Entity Framework
-• Python
-• PHP
-• MySQL Database
-• SQLite Browser Database
+### My name is Pedro Fontinele and I'm a full stack developer!
 
 <div style="display: inline-block">
   <a href="https://github.com/pedro-fontinele">
