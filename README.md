@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! 👋<br>My name is Pedro Fontinele and I'm a full stack developer!
-Email to contact:  pedro.p.h.fontinele@icloud.com
+<br>Email to contact:  pedro.p.h.fontinele@icloud.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fontinele_pedro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-fontinele) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fontinele_pedro) 
