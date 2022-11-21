@@ -1,29 +1,24 @@
-
-# Hello! 👋
-
-### My name is Pedro Fontinele and I'm a full stack developer!
-
-<div style="display: inline-block">
-  <a href="https://github.com/pedro-fontinele">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedro-fontinele&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fontinele&layout=compact&langs_count=8&theme=midnight-purple"/>
-<div>
-
-### My skills and knowledge
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Pedro-PLSQL" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=148&color=000000">
-  <img align="center" alt="Pedro-CSharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-</div>
-
-### My social networks:
-<br>
+# 💫 About Me:
+Hello! 👋<br>My name is Pedro Fontinele and I'm a full stack developer!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@fontinele_pedro-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/fontinele_pedro)](https://twitter.com/fontinele_pedro) 
-[![Instagram Badge](https://img.shields.io/badge/-@fontinele_pedro-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fontinele_pedro/)](https://www.instagram.com/fontinele_pedro/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Fontinele-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-fontinele/)](https://www.linkedin.com/in/pedro-fontinele/) 
-[![E-mail Badge](https://img.shields.io/badge/-pedro.p.h.fontinele@icloud.com-6633cc?style=flat-square&logo=email&logoColor=white&link=mailto:pedro.p.h.fontinele@icloud.com)](mailto:pedro.p.h.fontinele@icloud.com)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fontinele_pedro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-fontinele) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fontinele_pedro) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pedro-fontinele&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pedro-fontinele&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-fontinele&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=pedro-fontinele&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
