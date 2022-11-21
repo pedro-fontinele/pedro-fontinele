@@ -2,7 +2,9 @@
 Hello! 👋<br>My name is Pedro Fontinele and I'm a full stack developer!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fontinele_pedro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-fontinele) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fontinele_pedro) [![](https://visitcount.itsvg.in/api?id=pedro-fontinele&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fontinele_pedro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-fontinele) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fontinele_pedro) 
+
+[![](https://visitcount.itsvg.in/api?id=pedro-fontinele&icon=5&color=6)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pedro-fontinele&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
