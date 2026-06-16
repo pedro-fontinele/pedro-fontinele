@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Pedro Fontinele
+<div align="center">
 
-💻 **Senior Software Engineer** | .NET
+  <h1>Pedro Fontinele</h1>
+  
+  <h5>Senior Software Engineer | .NET</h5>
 
----
+</div>
+
 
 ## 🌐 Socials
 
