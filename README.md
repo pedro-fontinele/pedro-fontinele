@@ -43,6 +43,7 @@ I care deeply about clean, maintainable code and systems that are built to last 
 - TypeScript
 - JavaScript
 - SQL
+- Oracle PL/SQL
 
 ### Backend & Frameworks
 - .NET Core
@@ -68,15 +69,17 @@ I care deeply about clean, maintainable code and systems that are built to last 
 ### Databases
 - SQL Server
 - PostgreSQL
-- Oracle PL/SQL
+- Oracle
 - MongoDB
 - Redis
+- SQLite
 
 ### DevOps & Tools
 - Docker
 - GitHub Actions
 - Azure DevOps
 - Git
+- Postman
 
 ### Architecture & Practices
 - Microservices
@@ -86,6 +89,15 @@ I care deeply about clean, maintainable code and systems that are built to last 
 - Clean Architecture
 - SOLID
 - TDD
+- BFF (Backend for Frontend)
+- Async Messaging (DLQ, Retry Patterns)
+- Serverless
+
+### Methodologies
+- Scrum
+- Kanban
+- Agile
+- DevOps
 
 ---
 
