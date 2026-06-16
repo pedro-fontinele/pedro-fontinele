@@ -1,10 +1,6 @@
-<div align="center">
+# 👋 Hi, I'm Pedro Fontinele
 
-  <h1>Pedro Fontinele</h1>
-  
-  <h5>Senior Software Engineer | .NET</h5>
-
-</div>
+💻 **Senior Software Engineer** | .NET
 
 
 ## 🌐 Socials
