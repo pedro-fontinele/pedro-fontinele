@@ -26,13 +26,13 @@
 
 ---
 
-## 💼 Background
+## 🧠 Background
 
 I'm a Senior Software Engineer from Brazil with 6+ years of experience building and scaling critical financial systems. My work lives at the intersection of backend engineering and cloud architecture — designing distributed systems that handle high transaction volumes without breaking a sweat.
 
-I started my career in technical support, which gave me a strong foundation in understanding systems from the ground up. Over time I moved into full stack development at TOTVS, one of Brazil's largest ERP companies, where I sharpened my skills in .NET, SQL optimization and large-scale integrations. Today at Tecnologia Única I lead a team of 8 engineers, architecting microservices for payments and cashback platforms on AWS.
+I started my career in technical support, which gave me a strong foundation in understanding systems from the ground up. Over time I grew into full stack development, then deep backend and cloud engineering — optimizing high-impact billing routines, designing async messaging flows and leading architectural migrations that cut infrastructure costs by up to 40%.
 
-I care deeply about clean, maintainable code and systems that are built to last — not just to ship.
+Today I lead a team of 8 engineers, shaping distributed systems for payments and cashback platforms on AWS. I care deeply about clean, maintainable code and systems that are built to last — not just to ship.
 
 ---
 
