@@ -20,9 +20,10 @@
 
 | Project | Result |
 |---|---|
-| 🔧 Monolith → Microservices Migration (Tecnologia Única) | **↓ 30–40% in AWS infrastructure costs** |
-| ⚡ ERP Billing Performance Optimization (TOTVS) | **14 min → 2–4 seconds** |
+| 🔧 Monolith → Microservices Migration | **↓ 30–40% in AWS infrastructure costs** |
+| ⚡ ERP Billing Performance Optimization | **14 min → 2–4 seconds** |
 | 👨‍💻 Technical Leadership | **Team of 8 developers** |
+| 🚀 Co-Founder | **Qius Solutions** |
 
 ---
 
@@ -33,6 +34,23 @@ I'm a Senior Software Engineer from Brazil with 6+ years of experience building 
 I started my career in technical support, which gave me a strong foundation in understanding systems from the ground up. Over time I grew into full stack development, then deep backend and cloud engineering — optimizing high-impact billing routines, designing async messaging flows and leading architectural migrations that cut infrastructure costs by up to 40%.
 
 Today I lead a team of 8 engineers, shaping distributed systems for payments and cashback platforms on AWS. I care deeply about clean, maintainable code and systems that are built to last — not just to ship.
+
+---
+
+## 🚀 Qius Solutions
+
+> Building smart technology for the food retail industry.
+
+I'm the founder of **[Qius Solutions](https://qius.solutions)** — a tech company focused on bringing modern, efficient software to two underserved segments:
+
+- 🍽️ **Foodservice** — tools for restaurants, professional kitchens and food chains
+- 🛒 **Retail** — operational and management solutions for food retail networks and supermarkets
+
+Our mission is simple: make businesses more **efficient**, **modern** and **ready for the future**.
+
+- 📧 [qius.solutions@gmail.com](mailto:qius.solutions@gmail.com)
+- 🌐 [qius.solutions](https://qius.solutions)
+- 💻 [github.com/qius-solutions](https://github.com/qius-solutions)
 
 ---
 
